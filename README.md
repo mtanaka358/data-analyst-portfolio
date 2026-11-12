@@ -23,3 +23,14 @@ A Google Sheets-based analysis of retail sales and profitability across product 
 - **Project Repository:** [superstore-sales-profitability-analysis](https://github.com/mtanaka358/superstore-sales-profitability-analysis)
 - **Dashboard:** Available as a screenshot in the project repository
 - **Data Source:** Sample Superstore (Kaggle, originally attributed to Tableau)
+
+### 3.SQL Retail Sales Analysis
+
+Retail sales analysis using PostgreSQL and Tableau Public, covering KPIs, product performance, and geographic sales trends.
+
+- **Tools:** PostgreSQL 16, Tableau Public,GitHub
+- **Skills:** Data profiling and quality validation, SQL querying, KPI calculation, sales trend analysis, product and geographic sales analysis, dashboard development, business insight documentation
+- **Project Repository:** [SQL Retail Sales Analysis](https://github.com/mtanaka358/SQL-Retail-Sales-Analysis)
+- **Dashboard:** [View Northwind Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/mikiko.tanaka/viz/NorthwindSalesAnalysis_17943008493170/Dashboard1)
+- **Data Source:** [Northwind DemoDB](https://northwind.demodb.dev/downloads/)
+
