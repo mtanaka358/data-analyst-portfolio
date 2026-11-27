@@ -24,6 +24,7 @@ A Google Sheets-based analysis of retail sales and profitability across product 
 - **Dashboard:** Available as a screenshot in the project repository
 - **Data Source:** Sample Superstore (Kaggle, originally attributed to Tableau)
 
+
 ### 3.SQL Retail Sales Analysis
 
 Retail sales analysis using PostgreSQL and Tableau Public, covering KPIs, product performance, and geographic sales trends.
