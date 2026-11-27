@@ -34,3 +34,15 @@ Retail sales analysis using PostgreSQL and Tableau Public, covering KPIs, produc
 - **Dashboard:** [View Northwind Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/mikiko.tanaka/viz/NorthwindSalesAnalysis_17943008493170/Dashboard1)
 - **Data Source:** [Northwind DemoDB](https://northwind.demodb.dev/downloads/)
 
+
+### 4.Employee Attrition Analysis
+
+Employee attrition analysis using Tableau Public, focusing on tenure-based attrition rates and relationships between attrition, employee satisfaction, work-life balance, and overtime.
+
+- **Tools:** Tableau Public, Google Sheets, GitHub
+- **Skills:** Data profiling and quality validation, KPI definition and validation, employee attrition analysis, tenure-based segmentation, categorical analysis, dashboard development, business insight documentation
+- **Project Repository:** [HR Attrition Analysis](https://github.com/mtanaka358/hr-attrition-analysis)
+- **Dashboard:** [View Employee Attrition Dashboard on Tableau Public](https://public.tableau.com/app/profile/mikiko.tanaka/viz/EmployeeAttritionAnalysisIBMHRAnalytics/Dashboard)
+- **Data Source:** [IBM HR Analytics Employee Attrition & Performance (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+
